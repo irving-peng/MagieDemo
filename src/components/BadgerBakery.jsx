@@ -136,6 +136,7 @@ export default function BadgerBakery() {
         const totalCost = calculateTotal()
         const totalItems = calculateItems()
         alert("Order Confirmed! Your order contains "+totalItems+" items and costs $"+totalCost +" !")
+        setINQ({});
     }
     return <View>
         <Text>Welcome to Badger Bakery!</Text>
