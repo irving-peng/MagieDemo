@@ -22,7 +22,7 @@ When you are done, paste your *view-only* Figma link below. Make sure that it is
 
 INSERT YOUR FIGMA LINK HERE.
 
-##https://www.figma.com/file/IloWhlHQZJR0rtsMpNqeFr/Badger-Bakery?type=design&node-id=0-1&mode=design&t=bkOQDpXMelR9SOv2-0
+https://www.figma.com/file/IloWhlHQZJR0rtsMpNqeFr/Badger-Bakery?type=design&node-id=0-1&mode=design&t=bkOQDpXMelR9SOv2-0
 
 
 ## Badger Bakery Implementation
@@ -100,6 +100,7 @@ Upon submitting an order, a message should be displayed that says "Order Confirm
 In addition to your code, **you will also need to submit a video recording of your app**. Like the demo video, it should cover all the tasks below. Please thoroughly demonstrate all tasks to showcase the capabilities of your app.
 
 **Please embed your recording as a Kaltura video.**
+https://mediaspace.wisc.edu/edit/1_gel1fs51
 
 #### Tasks 
  - Navigate between **all** baked good items.
